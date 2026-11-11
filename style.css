@@ -616,8 +616,8 @@ footer .logo {
   background: var(--bg2);
 }
 .ap b {
-  display: flex;
-  height: 100%;
+  display: none;
+  height: 10%;
   align-items: center;
   justify-content: center;
   font:
